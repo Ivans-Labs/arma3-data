@@ -44,7 +44,6 @@ Mk32 GMG 20 mm (Raised),O_GMG_01_high_F
 Mk32A GMG 20 mm,O_GMG_01_A_F
 Mk6 Mortar,O_G_Mortar_01_F
 Mk6 Mortar,O_Mortar_01_F
-NAME,CLASSNAME
 Offroad (Armed) GHex,O_G_Offroad_01_armed_F
 Offroad (Repair),O_G_Offroad_01_repair_F
 Offroad GHex,O_G_Offroad_01_F

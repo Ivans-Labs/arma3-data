@@ -1,5 +1,7 @@
 # arma3-data
 
+Repo containing arma 3 data for classnames, scripting and wiki info.
+
 ### Base Game:
 
 - Vehicles [CSV](https://github.com/Ivans-Labs/blob/main/arma3-data/csv/base/vehicles.csv) | [JSON](https://github.com/Ivans-Labs/arma3-data/blob/main/json/base/vehicles.json)
