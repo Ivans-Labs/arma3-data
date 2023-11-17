@@ -1,5 +1,5 @@
 {
-    "Data": [
+    "arma 3 vehicle data": [
         {
             "name": "2S9 Sochor",
             "classname": "O_MBT_02_arty_F"
@@ -14,18 +14,18 @@
         },
         {
             "name": "Assault Boat",
-            "classname": "O_G_Boat_Transport_01_F"
+            "classname": "O_T_Boat_Transport_01_F"
         },
         {
             "name": "Assault Boat",
-            "classname": "O_T_Boat_Transport_01_F"
+            "classname": "O_G_Boat_Transport_01_F"
         },
         {
             "name": "BTR-K Kamysh",
             "classname": "O_APC_Tracked_02_cannon_F"
         },
         {
-            "name": "BTR-K Kamysh GHex",
+            "name": "BTR-K Kamysh\tGHex",
             "classname": "O_T_APC_Tracked_02_cannon_ghex_F"
         },
         {
@@ -174,11 +174,11 @@
         },
         {
             "name": "Mk6 Mortar",
-            "classname": "O_Mortar_01_F"
+            "classname": "O_G_Mortar_01_F"
         },
         {
             "name": "Mk6 Mortar",
-            "classname": "O_G_Mortar_01_F"
+            "classname": "O_Mortar_01_F"
         },
         {
             "name": "NAME",
@@ -250,11 +250,11 @@
         },
         {
             "name": "Qilin (Unarmed)",
-            "classname": "O_T_LSV_02_unarmed_F"
+            "classname": "O_LSV_02_unarmed_F"
         },
         {
             "name": "Qilin (Unarmed)",
-            "classname": "O_LSV_02_unarmed_F"
+            "classname": "O_T_LSV_02_unarmed_F"
         },
         {
             "name": "Qilin (Unarmed) Arid",
@@ -274,26 +274,26 @@
         },
         {
             "name": "Qilin (Unarmed) GreenHex",
-            "classname": "O_T_LSV_02_unarmed_ghex_F"
-        },
-        {
-            "name": "Qilin (Unarmed) GreenHex",
             "classname": "O_LSV_02_unarmed_ghex_F"
         },
         {
-            "name": "Qilin (Unarmed) Viper",
-            "classname": "O_T_LSV_02_unarmed_viper_F"
+            "name": "Qilin (Unarmed) GreenHex",
+            "classname": "O_T_LSV_02_unarmed_ghex_F"
         },
         {
             "name": "Qilin (Unarmed) Viper",
             "classname": "O_LSV_02_unarmed_viper_F"
         },
         {
+            "name": "Qilin (Unarmed) Viper",
+            "classname": "O_T_LSV_02_unarmed_viper_F"
+        },
+        {
             "name": "Quad Bike",
             "classname": "O_Quadbike_01_F"
         },
         {
-            "name": "Quad Bike GHex",
+            "name": "Quad Bike\tGHex",
             "classname": "O_G_Quadbike_01_F"
         },
         {
@@ -322,11 +322,11 @@
         },
         {
             "name": "Speedboat HMG",
-            "classname": "O_Boat_Armed_01_hmg_F"
+            "classname": "O_T_Boat_Armed_01_hmg_F"
         },
         {
             "name": "Speedboat HMG",
-            "classname": "O_T_Boat_Armed_01_hmg_F"
+            "classname": "O_Boat_Armed_01_hmg_F"
         },
         {
             "name": "Static Titan Launcher (AA) [CSAT]",
@@ -552,11 +552,11 @@
         },
         {
             "name": "AMV-7 Marshall",
-            "classname": "B_APC_Wheeled_01_cannon_F"
+            "classname": "B_T_APC_Wheeled_01_cannon_F"
         },
         {
             "name": "AMV-7 Marshall",
-            "classname": "B_T_APC_Wheeled_01_cannon_F"
+            "classname": "B_APC_Wheeled_01_cannon_F"
         },
         {
             "name": "AR-2 Darter",
@@ -568,15 +568,7 @@
         },
         {
             "name": "Assault Boat",
-            "classname": "I_Boat_Transport_01_F"
-        },
-        {
-            "name": "Assault Boat",
             "classname": "I_G_Boat_Transport_01_F"
-        },
-        {
-            "name": "Assault Boat",
-            "classname": "I_C_Boat_Transport_01_F"
         },
         {
             "name": "Assault Boat",
@@ -584,11 +576,19 @@
         },
         {
             "name": "Assault Boat",
-            "classname": "B_G_Boat_Transport_01_F"
+            "classname": "B_T_Boat_Transport_01_F"
         },
         {
             "name": "Assault Boat",
-            "classname": "B_T_Boat_Transport_01_F"
+            "classname": "I_C_Boat_Transport_01_F"
+        },
+        {
+            "name": "Assault Boat",
+            "classname": "I_Boat_Transport_01_F"
+        },
+        {
+            "name": "Assault Boat",
+            "classname": "B_G_Boat_Transport_01_F"
         },
         {
             "name": "CH-49 Mohawk",
@@ -612,11 +612,11 @@
         },
         {
             "name": "CRV-6e Bobcat",
-            "classname": "B_APC_Tracked_01_CRV_F"
+            "classname": "B_T_APC_Tracked_01_CRV_F"
         },
         {
             "name": "CRV-6e Bobcat",
-            "classname": "B_T_APC_Tracked_01_CRV_F"
+            "classname": "B_APC_Tracked_01_CRV_F"
         },
         {
             "name": "Caesar BTT",
@@ -636,19 +636,19 @@
         },
         {
             "name": "Fuel Truck",
-            "classname": "I_G_Van_01_fuel_F"
-        },
-        {
-            "name": "Fuel Truck",
             "classname": "B_G_Van_01_fuel_F"
         },
         {
-            "name": "HEMTT",
-            "classname": "B_Truck_01_mover_F"
+            "name": "Fuel Truck",
+            "classname": "I_G_Van_01_fuel_F"
         },
         {
             "name": "HEMTT",
             "classname": "B_T_Truck_01_mover_F"
+        },
+        {
+            "name": "HEMTT",
+            "classname": "B_Truck_01_mover_F"
         },
         {
             "name": "HEMTT Ammo",
@@ -660,11 +660,11 @@
         },
         {
             "name": "HEMTT Box",
-            "classname": "B_Truck_01_box_F"
+            "classname": "B_T_Truck_01_box_F"
         },
         {
             "name": "HEMTT Box",
-            "classname": "B_T_Truck_01_box_F"
+            "classname": "B_Truck_01_box_F"
         },
         {
             "name": "HEMTT Fuel",
@@ -716,11 +716,11 @@
         },
         {
             "name": "Hunter GMG",
-            "classname": "B_MRAP_01_gmg_F"
+            "classname": "B_T_MRAP_01_gmg_F"
         },
         {
             "name": "Hunter GMG",
-            "classname": "B_T_MRAP_01_gmg_F"
+            "classname": "B_MRAP_01_gmg_F"
         },
         {
             "name": "Hunter HMG",
@@ -735,7 +735,7 @@
             "classname": "B_APC_Tracked_01_AA_F"
         },
         {
-            "name": "IFV-6a Cheetaa AA",
+            "name": "IFV-6a Cheetah\tAA",
             "classname": "B_T_APC_Tracked_01_AA_F"
         },
         {
@@ -743,7 +743,7 @@
             "classname": "B_APC_Tracked_01_rcws_F"
         },
         {
-            "name": "IFV-6c Panther RCWS",
+            "name": "IFV-6c Panther\tRCWS",
             "classname": "B_T_APC_Tracked_01_rcws_F"
         },
         {
@@ -776,27 +776,27 @@
         },
         {
             "name": "M2A4 Slammer UP",
-            "classname": "B_MBT_01_TUSK_F"
-        },
-        {
-            "name": "M2A4 Slammer UP",
             "classname": "B_T_MBT_01_TUSK_F"
         },
         {
-            "name": "M4 Scorcher",
-            "classname": "B_MBT_01_arty_F"
+            "name": "M2A4 Slammer UP",
+            "classname": "B_MBT_01_TUSK_F"
         },
         {
             "name": "M4 Scorcher",
             "classname": "B_T_MBT_01_arty_F"
         },
         {
-            "name": "M5 Sandstorm MLRS",
-            "classname": "B_MBT_01_mlrs_F"
+            "name": "M4 Scorcher",
+            "classname": "B_MBT_01_arty_F"
         },
         {
             "name": "M5 Sandstorm MLRS",
             "classname": "B_T_MBT_01_mlrs_F"
+        },
+        {
+            "name": "M5 Sandstorm MLRS",
+            "classname": "B_MBT_01_mlrs_F"
         },
         {
             "name": "MB 4WD",
@@ -836,27 +836,31 @@
         },
         {
             "name": "Mk30 HMG .50",
-            "classname": "B_HMG_01_F"
-        },
-        {
-            "name": "Mk30 HMG .50",
             "classname": "B_T_HMG_01_F"
         },
         {
-            "name": "Mk30 HMG .50 (Raised)",
-            "classname": "I_HMG_01_high_F"
+            "name": "Mk30 HMG .50",
+            "classname": "B_HMG_01_F"
         },
         {
             "name": "Mk30 HMG .50 (Raised)",
             "classname": "B_HMG_01_high_F"
         },
         {
-            "name": "Mk30A HMG .50",
-            "classname": "I_HMG_01_A_F"
+            "name": "Mk30 HMG .50 (Raised)",
+            "classname": "I_HMG_01_high_F"
         },
         {
             "name": "Mk30A HMG .50",
             "classname": "B_HMG_01_A_F"
+        },
+        {
+            "name": "Mk30A HMG .50",
+            "classname": "I_HMG_01_A_F"
+        },
+        {
+            "name": "Mk32 GMG 20 mm",
+            "classname": "B_T_GMG_01_F"
         },
         {
             "name": "Mk32 GMG 20 mm",
@@ -867,16 +871,12 @@
             "classname": "B_GMG_01_F"
         },
         {
-            "name": "Mk32 GMG 20 mm",
-            "classname": "B_T_GMG_01_F"
+            "name": "Mk32 GMG 20 mm (Raised)",
+            "classname": "B_GMG_01_high_F"
         },
         {
             "name": "Mk32 GMG 20 mm (Raised)",
             "classname": "I_GMG_01_high_F"
-        },
-        {
-            "name": "Mk32 GMG 20 mm (Raised)",
-            "classname": "B_GMG_01_high_F"
         },
         {
             "name": "Mk32A GMG 20 mm",
@@ -896,10 +896,6 @@
         },
         {
             "name": "Mk6 Mortar",
-            "classname": "B_Mortar_01_F"
-        },
-        {
-            "name": "Mk6 Mortar",
             "classname": "B_G_Mortar_01_F"
         },
         {
@@ -907,28 +903,36 @@
             "classname": "B_T_Mortar_01_F"
         },
         {
-            "name": "Offroad",
-            "classname": "I_G_Offroad_01_F"
+            "name": "Mk6 Mortar",
+            "classname": "B_Mortar_01_F"
         },
         {
             "name": "Offroad",
             "classname": "B_GEN_Offroad_01_gen_F"
         },
         {
-            "name": "Offroad (Armed)",
-            "classname": "I_G_Offroad_01_armed_F"
+            "name": "Offroad",
+            "classname": "I_G_Offroad_01_F"
+        },
+        {
+            "name": "Offroad",
+            "classname": "B_G_Offroad_01_F"
         },
         {
             "name": "Offroad (Armed)",
             "classname": "B_G_Offroad_01_armed_F"
         },
         {
-            "name": "Offroad (Repair)",
-            "classname": "I_G_Offroad_01_repair_F"
+            "name": "Offroad (Armed)",
+            "classname": "I_G_Offroad_01_armed_F"
         },
         {
             "name": "Offroad (Repair)",
             "classname": "B_G_Offroad_01_repair_F"
+        },
+        {
+            "name": "Offroad (Repair)",
+            "classname": "I_G_Offroad_01_repair_F"
         },
         {
             "name": "Prowler (Armed)",
@@ -952,11 +956,11 @@
         },
         {
             "name": "Prowler (Armed) Olive",
-            "classname": "B_LSV_01_armed_olive_F"
+            "classname": "B_T_LSV_01_armed_olive_F"
         },
         {
             "name": "Prowler (Armed) Olive",
-            "classname": "B_T_LSV_01_armed_olive_F"
+            "classname": "B_LSV_01_armed_olive_F"
         },
         {
             "name": "Prowler (Armed) Sand",
@@ -968,15 +972,15 @@
         },
         {
             "name": "Prowler (Unarmed)",
+            "classname": "B_CTRG_LSV_01_light_F"
+        },
+        {
+            "name": "Prowler (Unarmed)",
             "classname": "B_T_LSV_01_unarmed_F"
         },
         {
             "name": "Prowler (Unarmed)",
             "classname": "B_LSV_01_unarmed_F"
-        },
-        {
-            "name": "Prowler (Unarmed)",
-            "classname": "B_CTRG_LSV_01_light_F"
         },
         {
             "name": "Prowler (Unarmed) Black",
@@ -1008,15 +1012,11 @@
         },
         {
             "name": "Quad Bike",
-            "classname": "I_Quadbike_01_F"
+            "classname": "B_Quadbike_01_F"
         },
         {
             "name": "Quad Bike",
             "classname": "I_G_Quadbike_01_F"
-        },
-        {
-            "name": "Quad Bike",
-            "classname": "B_Quadbike_01_F"
         },
         {
             "name": "Quad Bike",
@@ -1027,12 +1027,16 @@
             "classname": "B_T_Quadbike_01_F"
         },
         {
-            "name": "RHIB",
-            "classname": "I_G_Boat_Transport_02_F"
+            "name": "Quad Bike",
+            "classname": "I_Quadbike_01_F"
         },
         {
             "name": "RHIB",
             "classname": "I_C_Boat_Transport_02_F"
+        },
+        {
+            "name": "RHIB",
+            "classname": "I_G_Boat_Transport_02_F"
         },
         {
             "name": "RHIB",
@@ -1044,11 +1048,11 @@
         },
         {
             "name": "Rescue Boat",
-            "classname": "B_Lifeboat"
+            "classname": "B_T_Lifeboat"
         },
         {
             "name": "Rescue Boat",
-            "classname": "B_T_Lifeboat"
+            "classname": "B_Lifeboat"
         },
         {
             "name": "SDV",
@@ -1060,11 +1064,11 @@
         },
         {
             "name": "Speedboat Minigun",
-            "classname": "I_Boat_Armed_01_minigun_F"
+            "classname": "B_Boat_Armed_01_minigun_F"
         },
         {
             "name": "Speedboat Minigun",
-            "classname": "B_Boat_Armed_01_minigun_F"
+            "classname": "I_Boat_Armed_01_minigun_F"
         },
         {
             "name": "Speedboat Minigun",
@@ -1108,11 +1112,11 @@
         },
         {
             "name": "Truck",
-            "classname": "I_G_Van_01_transport_F"
+            "classname": "I_C_Van_01_transport_F"
         },
         {
             "name": "Truck",
-            "classname": "I_C_Van_01_transport_F"
+            "classname": "I_G_Van_01_transport_F"
         },
         {
             "name": "Truck",
