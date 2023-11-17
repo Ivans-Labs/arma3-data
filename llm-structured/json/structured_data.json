@@ -1,0 +1,1242 @@
+{
+    "Data": [
+        {
+            "name": "2S9 Sochor",
+            "classname": "O_MBT_02_arty_F"
+        },
+        {
+            "name": "2S9 Sochor GHex",
+            "classname": "O_T_MBT_02_arty_ghex_F"
+        },
+        {
+            "name": "Assault Boat",
+            "classname": "O_Boat_Transport_01_F"
+        },
+        {
+            "name": "Assault Boat",
+            "classname": "O_G_Boat_Transport_01_F"
+        },
+        {
+            "name": "Assault Boat",
+            "classname": "O_T_Boat_Transport_01_F"
+        },
+        {
+            "name": "BTR-K Kamysh",
+            "classname": "O_APC_Tracked_02_cannon_F"
+        },
+        {
+            "name": "BTR-K Kamysh GHex",
+            "classname": "O_T_APC_Tracked_02_cannon_ghex_F"
+        },
+        {
+            "name": "Fuel Truck",
+            "classname": "O_G_Van_01_fuel_F"
+        },
+        {
+            "name": "Ifrit",
+            "classname": "O_MRAP_02_F"
+        },
+        {
+            "name": "Ifrit GMG",
+            "classname": "O_MRAP_02_gmg_F"
+        },
+        {
+            "name": "Ifrit GMG GreenHex",
+            "classname": "O_T_MRAP_02_gmg_ghex_F"
+        },
+        {
+            "name": "Ifrit GreenHex",
+            "classname": "O_T_MRAP_02_ghex_F"
+        },
+        {
+            "name": "Ifrit HMG",
+            "classname": "O_MRAP_02_hmg_F"
+        },
+        {
+            "name": "Ifrit HMG GreenHex",
+            "classname": "O_T_MRAP_02_hmg_ghex_F"
+        },
+        {
+            "name": "K40 Ababil-3",
+            "classname": "O_UAV_02_F"
+        },
+        {
+            "name": "K40 Ababil-3 (CAS)",
+            "classname": "O_UAV_02_CAS_F"
+        },
+        {
+            "name": "KH-3A Fenghuang",
+            "classname": "O_T_UAV_04_CAS_F"
+        },
+        {
+            "name": "MSE-3 Marid",
+            "classname": "O_APC_Wheeled_02_rcws_F"
+        },
+        {
+            "name": "MSE-3 Marid GHex",
+            "classname": "O_T_APC_Wheeled_02_rcws_ghex_F"
+        },
+        {
+            "name": "Mi-280 Taru (Ammo, Black)",
+            "classname": "O_Heli_Transport_04_ammo_black_F"
+        },
+        {
+            "name": "Mi-280 Taru (Bench, Black)",
+            "classname": "O_Heli_Transport_04_bench_black_F"
+        },
+        {
+            "name": "Mi-280 Taru (Black)",
+            "classname": "O_Heli_Transport_04_black_F"
+        },
+        {
+            "name": "Mi-280 Taru (Cargo, Black)",
+            "classname": "O_Heli_Transport_04_box_black_F"
+        },
+        {
+            "name": "Mi-280 Taru (Fuel, Black)",
+            "classname": "O_Heli_Transport_04_fuel_black_F"
+        },
+        {
+            "name": "Mi-280 Taru (Medical, Black)",
+            "classname": "O_Heli_Transport_04_medevac_black_F"
+        },
+        {
+            "name": "Mi-280 Taru (Repair, Black)",
+            "classname": "O_Heli_Transport_04_repair_black_F"
+        },
+        {
+            "name": "Mi-280 Taru (Transport, Black)",
+            "classname": "O_Heli_Transport_04_covered_black_F"
+        },
+        {
+            "name": "Mi-290 Taru",
+            "classname": "O_Heli_Transport_04_F"
+        },
+        {
+            "name": "Mi-290 Taru (Ammo)",
+            "classname": "O_Heli_Transport_04_ammo_F"
+        },
+        {
+            "name": "Mi-290 Taru (Bench)",
+            "classname": "O_Heli_Transport_04_bench_F"
+        },
+        {
+            "name": "Mi-290 Taru (Box)",
+            "classname": "O_Heli_Transport_04_box_F"
+        },
+        {
+            "name": "Mi-290 Taru (Covered)",
+            "classname": "O_Heli_Transport_04_covered_F"
+        },
+        {
+            "name": "Mi-290 Taru (Fuel)",
+            "classname": "O_Heli_Transport_04_fuel_F"
+        },
+        {
+            "name": "Mi-290 Taru (Medical)",
+            "classname": "O_Heli_Transport_04_medevac_F"
+        },
+        {
+            "name": "Mi-290 Taru (Repair)",
+            "classname": "O_Heli_Transport_04_repair_F"
+        },
+        {
+            "name": "Mi-48 Kajman",
+            "classname": "O_Heli_Attack_02_F"
+        },
+        {
+            "name": "Mi-48 Kajman (Black)",
+            "classname": "O_Heli_Attack_02_black_F"
+        },
+        {
+            "name": "Mk30 HMG .50",
+            "classname": "O_HMG_01_F"
+        },
+        {
+            "name": "Mk30 HMG .50 (Raised)",
+            "classname": "O_HMG_01_high_F"
+        },
+        {
+            "name": "Mk30A HMG .50",
+            "classname": "O_HMG_01_A_F"
+        },
+        {
+            "name": "Mk32 GMG 20 mm",
+            "classname": "O_GMG_01_F"
+        },
+        {
+            "name": "Mk32 GMG 20 mm (Raised)",
+            "classname": "O_GMG_01_high_F"
+        },
+        {
+            "name": "Mk32A GMG 20 mm",
+            "classname": "O_GMG_01_A_F"
+        },
+        {
+            "name": "Mk6 Mortar",
+            "classname": "O_Mortar_01_F"
+        },
+        {
+            "name": "Mk6 Mortar",
+            "classname": "O_G_Mortar_01_F"
+        },
+        {
+            "name": "NAME",
+            "classname": "CLASSNAME"
+        },
+        {
+            "name": "Offroad (Armed) GHex",
+            "classname": "O_G_Offroad_01_armed_F"
+        },
+        {
+            "name": "Offroad (Repair)",
+            "classname": "O_G_Offroad_01_repair_F"
+        },
+        {
+            "name": "Offroad GHex",
+            "classname": "O_G_Offroad_01_F"
+        },
+        {
+            "name": "PO-30 Orca",
+            "classname": "O_Heli_Light_02_F"
+        },
+        {
+            "name": "PO-30 Orca (Black & White)",
+            "classname": "O_Heli_Light_02_v2_F"
+        },
+        {
+            "name": "PO-30 Orca (Unarmed)",
+            "classname": "O_Heli_Light_02_unarmed_F"
+        },
+        {
+            "name": "Qilin (Armed)",
+            "classname": "O_T_LSV_02_armed_F"
+        },
+        {
+            "name": "Qilin (Armed)",
+            "classname": "O_LSV_02_armed_F"
+        },
+        {
+            "name": "Qilin (Armed) Arid",
+            "classname": "O_T_LSV_02_armed_arid_F"
+        },
+        {
+            "name": "Qilin (Armed) Arid",
+            "classname": "O_LSV_02_armed_arid_F"
+        },
+        {
+            "name": "Qilin (Armed) Black",
+            "classname": "O_T_LSV_02_armed_black_F"
+        },
+        {
+            "name": "Qilin (Armed) Black",
+            "classname": "O_LSV_02_armed_black_F"
+        },
+        {
+            "name": "Qilin (Armed) GreenHex",
+            "classname": "O_T_LSV_02_armed_ghex_F"
+        },
+        {
+            "name": "Qilin (Armed) GreenHex",
+            "classname": "O_LSV_02_armed_ghex_F"
+        },
+        {
+            "name": "Qilin (Armed) Viper",
+            "classname": "O_T_LSV_02_armed_viper_F"
+        },
+        {
+            "name": "Qilin (Armed) Viper",
+            "classname": "O_LSV_02_armed_viper_F"
+        },
+        {
+            "name": "Qilin (Unarmed)",
+            "classname": "O_T_LSV_02_unarmed_F"
+        },
+        {
+            "name": "Qilin (Unarmed)",
+            "classname": "O_LSV_02_unarmed_F"
+        },
+        {
+            "name": "Qilin (Unarmed) Arid",
+            "classname": "O_T_LSV_02_unarmed_arid_F"
+        },
+        {
+            "name": "Qilin (Unarmed) Arid",
+            "classname": "O_LSV_02_unarmed_arid_F"
+        },
+        {
+            "name": "Qilin (Unarmed) Black",
+            "classname": "O_T_LSV_02_unarmed_black_F"
+        },
+        {
+            "name": "Qilin (Unarmed) Black",
+            "classname": "O_LSV_02_unarmed_black_F"
+        },
+        {
+            "name": "Qilin (Unarmed) GreenHex",
+            "classname": "O_T_LSV_02_unarmed_ghex_F"
+        },
+        {
+            "name": "Qilin (Unarmed) GreenHex",
+            "classname": "O_LSV_02_unarmed_ghex_F"
+        },
+        {
+            "name": "Qilin (Unarmed) Viper",
+            "classname": "O_T_LSV_02_unarmed_viper_F"
+        },
+        {
+            "name": "Qilin (Unarmed) Viper",
+            "classname": "O_LSV_02_unarmed_viper_F"
+        },
+        {
+            "name": "Quad Bike",
+            "classname": "O_Quadbike_01_F"
+        },
+        {
+            "name": "Quad Bike GHex",
+            "classname": "O_G_Quadbike_01_F"
+        },
+        {
+            "name": "Quad Bike GreenHex",
+            "classname": "O_T_Quadbike_01_ghex_F"
+        },
+        {
+            "name": "RHIB",
+            "classname": "O_G_Boat_Transport_02_F"
+        },
+        {
+            "name": "Remote Designator [CSAT]",
+            "classname": "O_Static_Designator_02_F"
+        },
+        {
+            "name": "Rescue Boat",
+            "classname": "O_Lifeboat"
+        },
+        {
+            "name": "Rescue Boat",
+            "classname": "O_T_Lifeboat"
+        },
+        {
+            "name": "SDV",
+            "classname": "O_SDV_01_F"
+        },
+        {
+            "name": "Speedboat HMG",
+            "classname": "O_Boat_Armed_01_hmg_F"
+        },
+        {
+            "name": "Speedboat HMG",
+            "classname": "O_T_Boat_Armed_01_hmg_F"
+        },
+        {
+            "name": "Static Titan Launcher (AA) [CSAT]",
+            "classname": "O_static_AA_F"
+        },
+        {
+            "name": "Static Titan Launcher (AT) [CSAT]",
+            "classname": "O_static_AT_F"
+        },
+        {
+            "name": "T-100 Varsuk",
+            "classname": "O_MBT_02_cannon_F"
+        },
+        {
+            "name": "T-100 Varsuk GHex",
+            "classname": "O_T_MBT_02_cannon_ghex_F"
+        },
+        {
+            "name": "Taru Bench Pod",
+            "classname": "Land_Pod_Heli_Transport_04_bench_F"
+        },
+        {
+            "name": "Taru Bench Pod (Black)",
+            "classname": "Land_Pod_Heli_Transport_04_bench_black_F"
+        },
+        {
+            "name": "Taru Medical Pod",
+            "classname": "Land_Pod_Heli_Transport_04_medevac_F"
+        },
+        {
+            "name": "Taru Medical Pod (Black)",
+            "classname": "Land_Pod_Heli_Transport_04_medevac_black_F"
+        },
+        {
+            "name": "Taru Transport Pod",
+            "classname": "Land_Pod_Heli_Transport_04_covered_F"
+        },
+        {
+            "name": "Taru Transport Pod (Black)",
+            "classname": "Land_Pod_Heli_Transport_04_covered_black_F"
+        },
+        {
+            "name": "Tayran AR-2",
+            "classname": "O_UAV_01_F"
+        },
+        {
+            "name": "Tempest (Device)",
+            "classname": "O_Truck_03_device_F"
+        },
+        {
+            "name": "Tempest (Device) GreenHex",
+            "classname": "O_T_Truck_03_device_ghex_F"
+        },
+        {
+            "name": "Tempest Ammo",
+            "classname": "O_Truck_03_ammo_F"
+        },
+        {
+            "name": "Tempest Ammo GreenHex",
+            "classname": "O_T_Truck_03_ammo_ghex_F"
+        },
+        {
+            "name": "Tempest Fuel",
+            "classname": "O_Truck_03_fuel_F"
+        },
+        {
+            "name": "Tempest Fuel GreenHex",
+            "classname": "O_T_Truck_03_fuel_ghex_F"
+        },
+        {
+            "name": "Tempest Medical",
+            "classname": "O_Truck_03_medical_F"
+        },
+        {
+            "name": "Tempest Medical GreenHex",
+            "classname": "O_T_Truck_03_medical_ghex_F"
+        },
+        {
+            "name": "Tempest Repair",
+            "classname": "O_Truck_03_repair_F"
+        },
+        {
+            "name": "Tempest Repair GreenHex",
+            "classname": "O_T_Truck_03_repair_ghex_F"
+        },
+        {
+            "name": "Tempest Transport",
+            "classname": "O_Truck_03_transport_F"
+        },
+        {
+            "name": "Tempest Transport (Covered)",
+            "classname": "O_Truck_03_covered_F"
+        },
+        {
+            "name": "Tempest Transport (Covered) GreenHex",
+            "classname": "O_T_Truck_03_covered_ghex_F"
+        },
+        {
+            "name": "Tempest Transport GreenHex",
+            "classname": "O_T_Truck_03_transport_ghex_F"
+        },
+        {
+            "name": "To-199 Neophron (CAS)",
+            "classname": "O_Plane_CAS_02_F"
+        },
+        {
+            "name": "To-201 Shikra",
+            "classname": "O_Plane_Fighter_02_F"
+        },
+        {
+            "name": "To-201 Shikra [Stealth]",
+            "classname": "O_Plane_Fighter_02_Stealth_F"
+        },
+        {
+            "name": "Truck GHex",
+            "classname": "O_G_Van_01_transport_F"
+        },
+        {
+            "name": "UGV Saif",
+            "classname": "O_UGV_01_F"
+        },
+        {
+            "name": "UGV Saif GHex",
+            "classname": "O_T_UGV_01_ghex_F"
+        },
+        {
+            "name": "UGV Saif RCWS",
+            "classname": "O_UGV_01_rcws_F"
+        },
+        {
+            "name": "UGV Saif RCWS GHex",
+            "classname": "O_T_UGV_01_rcws_ghex_F"
+        },
+        {
+            "name": "Y-32 Xi'an (Infantry Transport)",
+            "classname": "O_T_VTOL_02_infantry_F"
+        },
+        {
+            "name": "Y-32 Xi'an (Infantry Transport, GHex)",
+            "classname": "O_T_VTOL_02_infantry_ghex_F"
+        },
+        {
+            "name": "Y-32 Xi'an (Infantry Transport, Grey)",
+            "classname": "O_T_VTOL_02_infantry_grey_F"
+        },
+        {
+            "name": "Y-32 Xi'an (Infantry Transport, Hex)",
+            "classname": "O_T_VTOL_02_infantry_hex_F"
+        },
+        {
+            "name": "Y-32 Xi'an (Vehicle Transport)",
+            "classname": "O_T_VTOL_02_vehicle_F"
+        },
+        {
+            "name": "Y-32 Xi'an (Vehicle Transport, GHex)",
+            "classname": "O_T_VTOL_02_vehicle_ghex_F"
+        },
+        {
+            "name": "Y-32 Xi'an (Vehicle Transport, Grey)",
+            "classname": "O_T_VTOL_02_vehicle_grey_F"
+        },
+        {
+            "name": "Y-32 Xi'an (Vehicle Transport, Hex)",
+            "classname": "O_T_VTOL_02_vehicle_hex_F"
+        },
+        {
+            "name": "ZSU-39 Tigris",
+            "classname": "O_APC_Tracked_02_AA_F"
+        },
+        {
+            "name": "ZSU-39 Tigris GHex",
+            "classname": "O_T_APC_Tracked_02_AA_ghex_F"
+        },
+        {
+            "name": "Zamak Ammo",
+            "classname": "O_Truck_02_Ammo_F"
+        },
+        {
+            "name": "Zamak Fuel",
+            "classname": "O_Truck_02_fuel_F"
+        },
+        {
+            "name": "Zamak Medical",
+            "classname": "O_Truck_02_medical_F"
+        },
+        {
+            "name": "Zamak Repair",
+            "classname": "O_Truck_02_box_F"
+        },
+        {
+            "name": "Zamak Transport",
+            "classname": "O_Truck_02_transport_F"
+        },
+        {
+            "name": "Zamak Transport (Covered)",
+            "classname": "O_Truck_02_covered_F"
+        }
+    ],
+    "": [
+        {
+            "name": "A-143 Buzzard (AA)",
+            "classname": "I_Plane_Fighter_03_AA_F"
+        },
+        {
+            "name": "A-143 Buzzard (CAS)",
+            "classname": "I_Plane_Fighter_03_CAS_F"
+        },
+        {
+            "name": "A-149 Gryphon",
+            "classname": "I_Plane_Fighter_04_F"
+        },
+        {
+            "name": "A-164 Wipeout (CAS)",
+            "classname": "B_Plane_CAS_01_F"
+        },
+        {
+            "name": "AH-9 Pawnee",
+            "classname": "B_Heli_Light_01_armed_F"
+        },
+        {
+            "name": "AH-99 Blackfoot",
+            "classname": "B_Heli_Attack_01_F"
+        },
+        {
+            "name": "AMV-7 Marshall",
+            "classname": "B_APC_Wheeled_01_cannon_F"
+        },
+        {
+            "name": "AMV-7 Marshall",
+            "classname": "B_T_APC_Wheeled_01_cannon_F"
+        },
+        {
+            "name": "AR-2 Darter",
+            "classname": "I_UAV_01_F"
+        },
+        {
+            "name": "AR-2 Darter",
+            "classname": "B_UAV_01_F"
+        },
+        {
+            "name": "Assault Boat",
+            "classname": "I_Boat_Transport_01_F"
+        },
+        {
+            "name": "Assault Boat",
+            "classname": "I_G_Boat_Transport_01_F"
+        },
+        {
+            "name": "Assault Boat",
+            "classname": "I_C_Boat_Transport_01_F"
+        },
+        {
+            "name": "Assault Boat",
+            "classname": "B_Boat_Transport_01_F"
+        },
+        {
+            "name": "Assault Boat",
+            "classname": "B_G_Boat_Transport_01_F"
+        },
+        {
+            "name": "Assault Boat",
+            "classname": "B_T_Boat_Transport_01_F"
+        },
+        {
+            "name": "CH-49 Mohawk",
+            "classname": "I_Heli_Transport_02_F"
+        },
+        {
+            "name": "CH-67 Huron",
+            "classname": "B_Heli_Transport_03_F"
+        },
+        {
+            "name": "CH-67 Huron (Black)",
+            "classname": "B_Heli_Transport_03_black_F"
+        },
+        {
+            "name": "CH-67 Huron (Unarmed)",
+            "classname": "B_Heli_Transport_03_unarmed_F"
+        },
+        {
+            "name": "CH-67 Huron Unarmed (Green)",
+            "classname": "B_Heli_Transport_03_unarmed_green_F"
+        },
+        {
+            "name": "CRV-6e Bobcat",
+            "classname": "B_APC_Tracked_01_CRV_F"
+        },
+        {
+            "name": "CRV-6e Bobcat",
+            "classname": "B_T_APC_Tracked_01_CRV_F"
+        },
+        {
+            "name": "Caesar BTT",
+            "classname": "I_C_Plane_Civil_01_F"
+        },
+        {
+            "name": "F/A-181 Black Wasp II",
+            "classname": "B_Plane_Fighter_01_F"
+        },
+        {
+            "name": "F/A-181 Black Wasp II(Stealth)",
+            "classname": "B_Plane_Fighter_01_Stealth_F"
+        },
+        {
+            "name": "FV-720 Mora",
+            "classname": "I_APC_tracked_03_cannon_F"
+        },
+        {
+            "name": "Fuel Truck",
+            "classname": "I_G_Van_01_fuel_F"
+        },
+        {
+            "name": "Fuel Truck",
+            "classname": "B_G_Van_01_fuel_F"
+        },
+        {
+            "name": "HEMTT",
+            "classname": "B_Truck_01_mover_F"
+        },
+        {
+            "name": "HEMTT",
+            "classname": "B_T_Truck_01_mover_F"
+        },
+        {
+            "name": "HEMTT Ammo",
+            "classname": "B_Truck_01_ammo_F"
+        },
+        {
+            "name": "HEMTT Ammo",
+            "classname": "B_T_Truck_01_ammo_F"
+        },
+        {
+            "name": "HEMTT Box",
+            "classname": "B_Truck_01_box_F"
+        },
+        {
+            "name": "HEMTT Box",
+            "classname": "B_T_Truck_01_box_F"
+        },
+        {
+            "name": "HEMTT Fuel",
+            "classname": "B_Truck_01_fuel_F"
+        },
+        {
+            "name": "HEMTT Fuel",
+            "classname": "B_T_Truck_01_fuel_F"
+        },
+        {
+            "name": "HEMTT Medical",
+            "classname": "B_Truck_01_medical_F"
+        },
+        {
+            "name": "HEMTT Medical",
+            "classname": "B_T_Truck_01_medical_F"
+        },
+        {
+            "name": "HEMTT Repair",
+            "classname": "B_Truck_01_Repair_F"
+        },
+        {
+            "name": "HEMTT Repair",
+            "classname": "B_T_Truck_01_Repair_F"
+        },
+        {
+            "name": "HEMTT Transport",
+            "classname": "B_Truck_01_transport_F"
+        },
+        {
+            "name": "HEMTT Transport",
+            "classname": "B_T_Truck_01_transport_F"
+        },
+        {
+            "name": "HEMTT Transport (Covered)",
+            "classname": "B_Truck_01_covered_F"
+        },
+        {
+            "name": "HEMTT Transport (Covered)",
+            "classname": "B_T_Truck_01_covered_F"
+        },
+        {
+            "name": "Hunter",
+            "classname": "B_MRAP_01_F"
+        },
+        {
+            "name": "Hunter",
+            "classname": "B_T_MRAP_01_F"
+        },
+        {
+            "name": "Hunter GMG",
+            "classname": "B_MRAP_01_gmg_F"
+        },
+        {
+            "name": "Hunter GMG",
+            "classname": "B_T_MRAP_01_gmg_F"
+        },
+        {
+            "name": "Hunter HMG",
+            "classname": "B_MRAP_01_hmg_F"
+        },
+        {
+            "name": "Hunter HMG",
+            "classname": "B_T_MRAP_01_hmg_F"
+        },
+        {
+            "name": "IFV-6a Cheetah",
+            "classname": "B_APC_Tracked_01_AA_F"
+        },
+        {
+            "name": "IFV-6a Cheetaa AA",
+            "classname": "B_T_APC_Tracked_01_AA_F"
+        },
+        {
+            "name": "IFV-6c Panther",
+            "classname": "B_APC_Tracked_01_rcws_F"
+        },
+        {
+            "name": "IFV-6c Panther RCWS",
+            "classname": "B_T_APC_Tracked_01_rcws_F"
+        },
+        {
+            "name": "I_APC_Wheeled_03_cannon_F",
+            "classname": "I_APC_Wheeled_03_cannon_F"
+        },
+        {
+            "name": "I_MBT_03_cannon_F",
+            "classname": "I_MBT_03_cannon_F"
+        },
+        {
+            "name": "K40 Ababil-3",
+            "classname": "I_UAV_02_F"
+        },
+        {
+            "name": "K40 Ababil-3 (CAS)",
+            "classname": "I_UAV_02_CAS_F"
+        },
+        {
+            "name": "M-900",
+            "classname": "I_C_Heli_Light_01_civil_F"
+        },
+        {
+            "name": "M2A1 Slammer",
+            "classname": "B_MBT_01_cannon_F"
+        },
+        {
+            "name": "M2A1 Slammer",
+            "classname": "B_T_MBT_01_cannon_F"
+        },
+        {
+            "name": "M2A4 Slammer UP",
+            "classname": "B_MBT_01_TUSK_F"
+        },
+        {
+            "name": "M2A4 Slammer UP",
+            "classname": "B_T_MBT_01_TUSK_F"
+        },
+        {
+            "name": "M4 Scorcher",
+            "classname": "B_MBT_01_arty_F"
+        },
+        {
+            "name": "M4 Scorcher",
+            "classname": "B_T_MBT_01_arty_F"
+        },
+        {
+            "name": "M5 Sandstorm MLRS",
+            "classname": "B_MBT_01_mlrs_F"
+        },
+        {
+            "name": "M5 Sandstorm MLRS",
+            "classname": "B_T_MBT_01_mlrs_F"
+        },
+        {
+            "name": "MB 4WD",
+            "classname": "I_C_Offroad_02_unarmed_F"
+        },
+        {
+            "name": "MB 4WD (Brown)",
+            "classname": "I_C_Offroad_02_unarmed_brown_F"
+        },
+        {
+            "name": "MB 4WD (Olive)",
+            "classname": "I_C_Offroad_02_unarmed_olive_F"
+        },
+        {
+            "name": "MH-9 Hummingbird",
+            "classname": "B_Heli_Light_01_F"
+        },
+        {
+            "name": "MH-9 Hummingbird (Stripped)",
+            "classname": "B_Heli_Light_01_stripped_F"
+        },
+        {
+            "name": "MQ-12 Falcon",
+            "classname": "B_T_UAV_03_F"
+        },
+        {
+            "name": "MQ-4A Greyhawk",
+            "classname": "B_UAV_02_F"
+        },
+        {
+            "name": "MQ-4A Greyhawk (CAS)",
+            "classname": "B_UAV_02_CAS_F"
+        },
+        {
+            "name": "Mk30 HMG .50",
+            "classname": "I_HMG_01_F"
+        },
+        {
+            "name": "Mk30 HMG .50",
+            "classname": "B_HMG_01_F"
+        },
+        {
+            "name": "Mk30 HMG .50",
+            "classname": "B_T_HMG_01_F"
+        },
+        {
+            "name": "Mk30 HMG .50 (Raised)",
+            "classname": "I_HMG_01_high_F"
+        },
+        {
+            "name": "Mk30 HMG .50 (Raised)",
+            "classname": "B_HMG_01_high_F"
+        },
+        {
+            "name": "Mk30A HMG .50",
+            "classname": "I_HMG_01_A_F"
+        },
+        {
+            "name": "Mk30A HMG .50",
+            "classname": "B_HMG_01_A_F"
+        },
+        {
+            "name": "Mk32 GMG 20 mm",
+            "classname": "I_GMG_01_F"
+        },
+        {
+            "name": "Mk32 GMG 20 mm",
+            "classname": "B_GMG_01_F"
+        },
+        {
+            "name": "Mk32 GMG 20 mm",
+            "classname": "B_T_GMG_01_F"
+        },
+        {
+            "name": "Mk32 GMG 20 mm (Raised)",
+            "classname": "I_GMG_01_high_F"
+        },
+        {
+            "name": "Mk32 GMG 20 mm (Raised)",
+            "classname": "B_GMG_01_high_F"
+        },
+        {
+            "name": "Mk32A GMG 20 mm",
+            "classname": "I_GMG_01_A_F"
+        },
+        {
+            "name": "Mk32A GMG 20 mm",
+            "classname": "B_GMG_01_A_F"
+        },
+        {
+            "name": "Mk6 Mortar",
+            "classname": "I_Mortar_01_F"
+        },
+        {
+            "name": "Mk6 Mortar",
+            "classname": "I_G_Mortar_01_F"
+        },
+        {
+            "name": "Mk6 Mortar",
+            "classname": "B_Mortar_01_F"
+        },
+        {
+            "name": "Mk6 Mortar",
+            "classname": "B_G_Mortar_01_F"
+        },
+        {
+            "name": "Mk6 Mortar",
+            "classname": "B_T_Mortar_01_F"
+        },
+        {
+            "name": "NAME",
+            "classname": "CLASSNAME"
+        },
+        {
+            "name": "NAME",
+            "classname": "CLASSNAME"
+        },
+        {
+            "name": "NAME",
+            "classname": "CLASSNAME"
+        },
+        {
+            "name": "NAME",
+            "classname": "CLASSNAME"
+        },
+        {
+            "name": "Offroad",
+            "classname": "I_G_Offroad_01_F"
+        },
+        {
+            "name": "Offroad",
+            "classname": "B_G_Offroad_01_F"
+        },
+        {
+            "name": "Offroad",
+            "classname": "B_GEN_Offroad_01_gen_F"
+        },
+        {
+            "name": "Offroad (Armed)",
+            "classname": "I_G_Offroad_01_armed_F"
+        },
+        {
+            "name": "Offroad (Armed)",
+            "classname": "B_G_Offroad_01_armed_F"
+        },
+        {
+            "name": "Offroad (Repair)",
+            "classname": "I_G_Offroad_01_repair_F"
+        },
+        {
+            "name": "Offroad (Repair)",
+            "classname": "B_G_Offroad_01_repair_F"
+        },
+        {
+            "name": "Prowler (Armed)",
+            "classname": "B_T_LSV_01_armed_F"
+        },
+        {
+            "name": "Prowler (Armed)",
+            "classname": "B_LSV_01_armed_F"
+        },
+        {
+            "name": "Prowler (Armed) Black",
+            "classname": "B_LSV_01_armed_black_F"
+        },
+        {
+            "name": "Prowler (Armed) Black",
+            "classname": "B_T_LSV_01_armed_black_F"
+        },
+        {
+            "name": "Prowler (Armed) CTRG",
+            "classname": "B_T_LSV_01_armed_CTRG_F"
+        },
+        {
+            "name": "Prowler (Armed) Olive",
+            "classname": "B_LSV_01_armed_olive_F"
+        },
+        {
+            "name": "Prowler (Armed) Olive",
+            "classname": "B_T_LSV_01_armed_olive_F"
+        },
+        {
+            "name": "Prowler (Armed) Sand",
+            "classname": "B_LSV_01_armed_sand_F"
+        },
+        {
+            "name": "Prowler (Armed) Sand",
+            "classname": "B_T_LSV_01_armed_sand_F"
+        },
+        {
+            "name": "Prowler (Unarmed)",
+            "classname": "B_T_LSV_01_unarmed_F"
+        },
+        {
+            "name": "Prowler (Unarmed)",
+            "classname": "B_LSV_01_unarmed_F"
+        },
+        {
+            "name": "Prowler (Unarmed)",
+            "classname": "B_CTRG_LSV_01_light_F"
+        },
+        {
+            "name": "Prowler (Unarmed) Black",
+            "classname": "B_LSV_01_unarmed_black_F"
+        },
+        {
+            "name": "Prowler (Unarmed) Black",
+            "classname": "B_T_LSV_01_unarmed_black_F"
+        },
+        {
+            "name": "Prowler (Unarmed) CTRG",
+            "classname": "B_T_LSV_01_unarmed_CTRG_F"
+        },
+        {
+            "name": "Prowler (Unarmed) Olive",
+            "classname": "B_LSV_01_unarmed_olive_F"
+        },
+        {
+            "name": "Prowler (Unarmed) Olive",
+            "classname": "B_T_LSV_01_unarmed_olive_F"
+        },
+        {
+            "name": "Prowler (Unarmed) Sand",
+            "classname": "B_LSV_01_unarmed_sand_F"
+        },
+        {
+            "name": "Prowler (Unarmed) Sand",
+            "classname": "B_T_LSV_01_unarmed_sand_F"
+        },
+        {
+            "name": "Quad Bike",
+            "classname": "I_Quadbike_01_F"
+        },
+        {
+            "name": "Quad Bike",
+            "classname": "I_G_Quadbike_01_F"
+        },
+        {
+            "name": "Quad Bike",
+            "classname": "B_Quadbike_01_F"
+        },
+        {
+            "name": "Quad Bike",
+            "classname": "B_G_Quadbike_01_F"
+        },
+        {
+            "name": "Quad Bike",
+            "classname": "B_T_Quadbike_01_F"
+        },
+        {
+            "name": "RHIB",
+            "classname": "I_G_Boat_Transport_02_F"
+        },
+        {
+            "name": "RHIB",
+            "classname": "I_C_Boat_Transport_02_F"
+        },
+        {
+            "name": "RHIB",
+            "classname": "B_G_Boat_Transport_02_F"
+        },
+        {
+            "name": "Remote Designator [NATO]",
+            "classname": "B_Static_Designator_01_F"
+        },
+        {
+            "name": "Rescue Boat",
+            "classname": "B_Lifeboat"
+        },
+        {
+            "name": "Rescue Boat",
+            "classname": "B_T_Lifeboat"
+        },
+        {
+            "name": "SDV",
+            "classname": "I_SDV_01_F"
+        },
+        {
+            "name": "SDV",
+            "classname": "B_SDV_01_F"
+        },
+        {
+            "name": "Speedboat Minigun",
+            "classname": "I_Boat_Armed_01_minigun_F"
+        },
+        {
+            "name": "Speedboat Minigun",
+            "classname": "B_Boat_Armed_01_minigun_F"
+        },
+        {
+            "name": "Speedboat Minigun",
+            "classname": "B_T_Boat_Armed_01_minigun_F"
+        },
+        {
+            "name": "Static Titan Launcher (AA) [AAF]",
+            "classname": "I_static_AA_F"
+        },
+        {
+            "name": "Static Titan Launcher (AA) [NATO]",
+            "classname": "B_static_AA_F"
+        },
+        {
+            "name": "Static Titan Launcher (AA) [NATO]",
+            "classname": "B_T_Static_AA_F"
+        },
+        {
+            "name": "Static Titan Launcher (AT) [AAF]",
+            "classname": "I_static_AT_F"
+        },
+        {
+            "name": "Static Titan Launcher (AT) [NATO]",
+            "classname": "B_static_AT_F"
+        },
+        {
+            "name": "Static Titan Launcher (AT) [NATO]",
+            "classname": "B_T_Static_AT_F"
+        },
+        {
+            "name": "Strider",
+            "classname": "I_MRAP_03_F"
+        },
+        {
+            "name": "Strider GMG",
+            "classname": "I_MRAP_03_gmg_F"
+        },
+        {
+            "name": "Strider HMG",
+            "classname": "I_MRAP_03_hmg_F"
+        },
+        {
+            "name": "Truck",
+            "classname": "I_G_Van_01_transport_F"
+        },
+        {
+            "name": "Truck",
+            "classname": "I_C_Van_01_transport_F"
+        },
+        {
+            "name": "Truck",
+            "classname": "B_G_Van_01_transport_F"
+        },
+        {
+            "name": "Truck (Brown)",
+            "classname": "I_C_Van_01_transport_brown_F"
+        },
+        {
+            "name": "Truck (Olive)",
+            "classname": "I_C_Van_01_transport_olive_F"
+        },
+        {
+            "name": "UGV Stomper",
+            "classname": "I_UGV_01_F"
+        },
+        {
+            "name": "UGV Stomper",
+            "classname": "B_UGV_01_F"
+        },
+        {
+            "name": "UGV Stomper RCWS",
+            "classname": "I_UGV_01_rcws_F"
+        },
+        {
+            "name": "UGV Stomper RCWS",
+            "classname": "B_UGV_01_rcws_F"
+        },
+        {
+            "name": "UH-80 Ghost Hawk",
+            "classname": "B_Heli_Transport_01_F"
+        },
+        {
+            "name": "UH-80 Ghost Hawk (Camo)",
+            "classname": "B_Heli_Transport_01_camo_F"
+        },
+        {
+            "name": "UH-80 Ghost Hawk (Sand)",
+            "classname": "B_CTRG_Heli_Transport_01_sand_F"
+        },
+        {
+            "name": "UH-80 Ghost Hawk (Tropic)",
+            "classname": "B_CTRG_Heli_Transport_01_tropic_F"
+        },
+        {
+            "name": "V-44 X Blackfish (Armed)",
+            "classname": "B_T_VTOL_01_armed_F"
+        },
+        {
+            "name": "V-44 X Blackfish (Armed) Blue",
+            "classname": "B_T_VTOL_01_armed_blue_F"
+        },
+        {
+            "name": "V-44 X Blackfish (Armed) Olive",
+            "classname": "B_T_VTOL_01_armed_olive_F"
+        },
+        {
+            "name": "V-44 X Blackfish (Infantry Transport)",
+            "classname": "B_T_VTOL_01_infantry_F"
+        },
+        {
+            "name": "V-44 X Blackfish (Infantry Transport) Blue",
+            "classname": "B_T_VTOL_01_infantry_blue_F"
+        },
+        {
+            "name": "V-44 X Blackfish (Infantry Transport) Olive",
+            "classname": "B_T_VTOL_01_infantry_olive_F"
+        },
+        {
+            "name": "V-44 X Blackfish (Vehicle Transport)",
+            "classname": "B_T_VTOL_01_vehicle_F"
+        },
+        {
+            "name": "WY-55 Hellcat",
+            "classname": "I_Heli_light_03_F"
+        },
+        {
+            "name": "WY-55 Hellcat (Unarmed)",
+            "classname": "I_Heli_light_03_unarmed_F"
+        },
+        {
+            "name": "Zamak Ammo",
+            "classname": "I_Truck_02_ammo_F"
+        },
+        {
+            "name": "Zamak Fuel",
+            "classname": "I_Truck_02_fuel_F"
+        },
+        {
+            "name": "Zamak Medical",
+            "classname": "I_Truck_02_medical_F"
+        },
+        {
+            "name": "Zamak Repair",
+            "classname": "I_Truck_02_box_F"
+        },
+        {
+            "name": "Zamak Transport",
+            "classname": "I_Truck_02_transport_F"
+        },
+        {
+            "name": "Zamak Transport (Covered)",
+            "classname": "I_Truck_02_covered_F"
+        }
+    ]
+}
