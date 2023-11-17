@@ -2,10 +2,10 @@
 
 ### Base Game:
 
-[] Vehicles
-[] Units
-[] Weapons
-[] Items
-[] Buildings
-[] Scripting (wiki data)
-
+[ ] Vehicles
+[ ] Units
+[ ] Weapons
+[ ] Items
+[ ] Buildings
+[ ] Scripting (wiki data)
+ 
