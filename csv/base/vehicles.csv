@@ -1,174 +1,306 @@
-2S9 Sochor,O_MBT_02_arty_F,A-143 Buzzard (AA),I_Plane_Fighter_03_AA_F
-2S9 Sochor GHex,O_T_MBT_02_arty_ghex_F,A-143 Buzzard (CAS),I_Plane_Fighter_03_CAS_F
-Assault Boat,O_Boat_Transport_01_F,A-149 Gryphon,I_Plane_Fighter_04_F
-Assault Boat,O_T_Boat_Transport_01_F,A-164 Wipeout (CAS),B_Plane_CAS_01_F
-Assault Boat,O_G_Boat_Transport_01_F,AH-9 Pawnee,B_Heli_Light_01_armed_F
-BTR-K Kamysh,O_APC_Tracked_02_cannon_F,AH-99 Blackfoot,B_Heli_Attack_01_F
-BTR-K Kamysh	GHex,O_T_APC_Tracked_02_cannon_ghex_F,AMV-7 Marshall,B_T_APC_Wheeled_01_cannon_F
-Fuel Truck,O_G_Van_01_fuel_F,AMV-7 Marshall,B_APC_Wheeled_01_cannon_F
-Ifrit,O_MRAP_02_F,AR-2 Darter,I_UAV_01_F
-Ifrit GMG,O_MRAP_02_gmg_F,AR-2 Darter,B_UAV_01_F
-Ifrit GMG GreenHex,O_T_MRAP_02_gmg_ghex_F,Assault Boat,I_G_Boat_Transport_01_F
-Ifrit GreenHex,O_T_MRAP_02_ghex_F,Assault Boat,B_Boat_Transport_01_F
-Ifrit HMG,O_MRAP_02_hmg_F,Assault Boat,B_T_Boat_Transport_01_F
-Ifrit HMG GreenHex,O_T_MRAP_02_hmg_ghex_F,Assault Boat,I_C_Boat_Transport_01_F
-K40 Ababil-3,O_UAV_02_F,Assault Boat,I_Boat_Transport_01_F
-K40 Ababil-3 (CAS),O_UAV_02_CAS_F,Assault Boat,B_G_Boat_Transport_01_F
-KH-3A Fenghuang,O_T_UAV_04_CAS_F,CH-49 Mohawk,I_Heli_Transport_02_F
-MSE-3 Marid,O_APC_Wheeled_02_rcws_F,CH-67 Huron,B_Heli_Transport_03_F
-MSE-3 Marid GHex,O_T_APC_Wheeled_02_rcws_ghex_F,CH-67 Huron (Black),B_Heli_Transport_03_black_F
-"Mi-280 Taru (Ammo, Black)",O_Heli_Transport_04_ammo_black_F,CH-67 Huron (Unarmed),B_Heli_Transport_03_unarmed_F
-"Mi-280 Taru (Bench, Black)",O_Heli_Transport_04_bench_black_F,CH-67 Huron Unarmed (Green),B_Heli_Transport_03_unarmed_green_F
-Mi-280 Taru (Black),O_Heli_Transport_04_black_F,CRV-6e Bobcat,B_T_APC_Tracked_01_CRV_F
-"Mi-280 Taru (Cargo, Black)",O_Heli_Transport_04_box_black_F,CRV-6e Bobcat,B_APC_Tracked_01_CRV_F
-"Mi-280 Taru (Fuel, Black)",O_Heli_Transport_04_fuel_black_F,Caesar BTT,I_C_Plane_Civil_01_F
-"Mi-280 Taru (Medical, Black)",O_Heli_Transport_04_medevac_black_F,F/A-181 Black Wasp II,B_Plane_Fighter_01_F
-"Mi-280 Taru (Repair, Black)",O_Heli_Transport_04_repair_black_F,F/A-181 Black Wasp II(Stealth),B_Plane_Fighter_01_Stealth_F
-"Mi-280 Taru (Transport, Black)",O_Heli_Transport_04_covered_black_F,FV-720 Mora,I_APC_tracked_03_cannon_F
-Mi-290 Taru,O_Heli_Transport_04_F,Fuel Truck,B_G_Van_01_fuel_F
-Mi-290 Taru (Ammo),O_Heli_Transport_04_ammo_F,Fuel Truck,I_G_Van_01_fuel_F
-Mi-290 Taru (Bench),O_Heli_Transport_04_bench_F,HEMTT,B_T_Truck_01_mover_F
-Mi-290 Taru (Box),O_Heli_Transport_04_box_F,HEMTT,B_Truck_01_mover_F
-Mi-290 Taru (Covered),O_Heli_Transport_04_covered_F,HEMTT Ammo,B_Truck_01_ammo_F
-Mi-290 Taru (Fuel),O_Heli_Transport_04_fuel_F,HEMTT Ammo,B_T_Truck_01_ammo_F
-Mi-290 Taru (Medical),O_Heli_Transport_04_medevac_F,HEMTT Box,B_T_Truck_01_box_F
-Mi-290 Taru (Repair),O_Heli_Transport_04_repair_F,HEMTT Box,B_Truck_01_box_F
-Mi-48 Kajman,O_Heli_Attack_02_F,HEMTT Fuel,B_Truck_01_fuel_F
-Mi-48 Kajman (Black),O_Heli_Attack_02_black_F,HEMTT Fuel,B_T_Truck_01_fuel_F
-Mk30 HMG .50,O_HMG_01_F,HEMTT Medical,B_Truck_01_medical_F
-Mk30 HMG .50 (Raised),O_HMG_01_high_F,HEMTT Medical,B_T_Truck_01_medical_F
-Mk30A HMG .50,O_HMG_01_A_F,HEMTT Repair,B_Truck_01_Repair_F
-Mk32 GMG 20 mm,O_GMG_01_F,HEMTT Repair,B_T_Truck_01_Repair_F
-Mk32 GMG 20 mm (Raised),O_GMG_01_high_F,HEMTT Transport,B_Truck_01_transport_F
-Mk32A GMG 20 mm,O_GMG_01_A_F,HEMTT Transport,B_T_Truck_01_transport_F
-Mk6 Mortar,O_G_Mortar_01_F,HEMTT Transport (Covered),B_Truck_01_covered_F
-Mk6 Mortar,O_Mortar_01_F,HEMTT Transport (Covered),B_T_Truck_01_covered_F
-NAME,CLASSNAME,Hunter,B_MRAP_01_F
-Offroad (Armed) GHex,O_G_Offroad_01_armed_F,Hunter,B_T_MRAP_01_F
-Offroad (Repair),O_G_Offroad_01_repair_F,Hunter GMG,B_T_MRAP_01_gmg_F
-Offroad GHex,O_G_Offroad_01_F,Hunter GMG,B_MRAP_01_gmg_F
-PO-30 Orca,O_Heli_Light_02_F,Hunter HMG,B_MRAP_01_hmg_F
-PO-30 Orca (Black & White),O_Heli_Light_02_v2_F,Hunter HMG,B_T_MRAP_01_hmg_F
-PO-30 Orca (Unarmed),O_Heli_Light_02_unarmed_F,IFV-6a Cheetah,B_APC_Tracked_01_AA_F
-Qilin (Armed),O_T_LSV_02_armed_F,IFV-6a Cheetah	AA,B_T_APC_Tracked_01_AA_F
-Qilin (Armed),O_LSV_02_armed_F,IFV-6c Panther,B_APC_Tracked_01_rcws_F
-Qilin (Armed) Arid,O_T_LSV_02_armed_arid_F,IFV-6c Panther	RCWS,B_T_APC_Tracked_01_rcws_F
-Qilin (Armed) Arid,O_LSV_02_armed_arid_F,I_APC_Wheeled_03_cannon_F,I_APC_Wheeled_03_cannon_F
-Qilin (Armed) Black,O_T_LSV_02_armed_black_F,I_MBT_03_cannon_F,I_MBT_03_cannon_F
-Qilin (Armed) Black,O_LSV_02_armed_black_F,K40 Ababil-3,I_UAV_02_F
-Qilin (Armed) GreenHex,O_T_LSV_02_armed_ghex_F,K40 Ababil-3 (CAS),I_UAV_02_CAS_F
-Qilin (Armed) GreenHex,O_LSV_02_armed_ghex_F,M-900,I_C_Heli_Light_01_civil_F
-Qilin (Armed) Viper,O_T_LSV_02_armed_viper_F,M2A1 Slammer,B_MBT_01_cannon_F
-Qilin (Armed) Viper,O_LSV_02_armed_viper_F,M2A1 Slammer,B_T_MBT_01_cannon_F
-Qilin (Unarmed),O_LSV_02_unarmed_F,M2A4 Slammer UP,B_T_MBT_01_TUSK_F
-Qilin (Unarmed),O_T_LSV_02_unarmed_F,M2A4 Slammer UP,B_MBT_01_TUSK_F
-Qilin (Unarmed) Arid,O_T_LSV_02_unarmed_arid_F,M4 Scorcher,B_T_MBT_01_arty_F
-Qilin (Unarmed) Arid,O_LSV_02_unarmed_arid_F,M4 Scorcher,B_MBT_01_arty_F
-Qilin (Unarmed) Black,O_T_LSV_02_unarmed_black_F,M5 Sandstorm MLRS,B_T_MBT_01_mlrs_F
-Qilin (Unarmed) Black,O_LSV_02_unarmed_black_F,M5 Sandstorm MLRS,B_MBT_01_mlrs_F
-Qilin (Unarmed) GreenHex,O_LSV_02_unarmed_ghex_F,MB 4WD,I_C_Offroad_02_unarmed_F
-Qilin (Unarmed) GreenHex,O_T_LSV_02_unarmed_ghex_F,MB 4WD (Brown),I_C_Offroad_02_unarmed_brown_F
-Qilin (Unarmed) Viper,O_LSV_02_unarmed_viper_F,MB 4WD (Olive),I_C_Offroad_02_unarmed_olive_F
-Qilin (Unarmed) Viper,O_T_LSV_02_unarmed_viper_F,MH-9 Hummingbird,B_Heli_Light_01_F
-Quad Bike,O_Quadbike_01_F,MH-9 Hummingbird (Stripped),B_Heli_Light_01_stripped_F
-Quad Bike	GHex,O_G_Quadbike_01_F,MQ-12 Falcon,B_T_UAV_03_F
-Quad Bike GreenHex,O_T_Quadbike_01_ghex_F,MQ-4A Greyhawk,B_UAV_02_F
-RHIB,O_G_Boat_Transport_02_F,MQ-4A Greyhawk (CAS),B_UAV_02_CAS_F
-Remote Designator [CSAT],O_Static_Designator_02_F,Mk30 HMG .50,I_HMG_01_F
-Rescue Boat,O_Lifeboat,Mk30 HMG .50,B_T_HMG_01_F
-Rescue Boat,O_T_Lifeboat,Mk30 HMG .50,B_HMG_01_F
-SDV,O_SDV_01_F,Mk30 HMG .50 (Raised),B_HMG_01_high_F
-Speedboat HMG,O_T_Boat_Armed_01_hmg_F,Mk30 HMG .50 (Raised),I_HMG_01_high_F
-Speedboat HMG,O_Boat_Armed_01_hmg_F,Mk30A HMG .50,B_HMG_01_A_F
-Static Titan Launcher (AA) [CSAT],O_static_AA_F,Mk30A HMG .50,I_HMG_01_A_F
-Static Titan Launcher (AT) [CSAT],O_static_AT_F,Mk32 GMG 20 mm,B_T_GMG_01_F
-T-100 Varsuk,O_MBT_02_cannon_F,Mk32 GMG 20 mm,I_GMG_01_F
-T-100 Varsuk GHex,O_T_MBT_02_cannon_ghex_F,Mk32 GMG 20 mm,B_GMG_01_F
-Taru Bench Pod,Land_Pod_Heli_Transport_04_bench_F,Mk32 GMG 20 mm (Raised),B_GMG_01_high_F
-Taru Bench Pod (Black),Land_Pod_Heli_Transport_04_bench_black_F,Mk32 GMG 20 mm (Raised),I_GMG_01_high_F
-Taru Medical Pod,Land_Pod_Heli_Transport_04_medevac_F,Mk32A GMG 20 mm,I_GMG_01_A_F
-Taru Medical Pod (Black),Land_Pod_Heli_Transport_04_medevac_black_F,Mk32A GMG 20 mm,B_GMG_01_A_F
-Taru Transport Pod,Land_Pod_Heli_Transport_04_covered_F,Mk6 Mortar,I_Mortar_01_F
-Taru Transport Pod (Black),Land_Pod_Heli_Transport_04_covered_black_F,Mk6 Mortar,I_G_Mortar_01_F
-Tayran AR-2,O_UAV_01_F,Mk6 Mortar,B_G_Mortar_01_F
-Tempest (Device),O_Truck_03_device_F,Mk6 Mortar,B_T_Mortar_01_F
-Tempest (Device) GreenHex,O_T_Truck_03_device_ghex_F,Mk6 Mortar,B_Mortar_01_F
-Tempest Ammo,O_Truck_03_ammo_F,Offroad,B_GEN_Offroad_01_gen_F
-Tempest Ammo GreenHex,O_T_Truck_03_ammo_ghex_F,Offroad,I_G_Offroad_01_F
-Tempest Fuel,O_Truck_03_fuel_F,Offroad,B_G_Offroad_01_F
-Tempest Fuel GreenHex,O_T_Truck_03_fuel_ghex_F,Offroad (Armed),B_G_Offroad_01_armed_F
-Tempest Medical,O_Truck_03_medical_F,Offroad (Armed),I_G_Offroad_01_armed_F
-Tempest Medical GreenHex,O_T_Truck_03_medical_ghex_F,Offroad (Repair),B_G_Offroad_01_repair_F
-Tempest Repair,O_Truck_03_repair_F,Offroad (Repair),I_G_Offroad_01_repair_F
-Tempest Repair GreenHex,O_T_Truck_03_repair_ghex_F,Prowler (Armed),B_T_LSV_01_armed_F
-Tempest Transport,O_Truck_03_transport_F,Prowler (Armed),B_LSV_01_armed_F
-Tempest Transport (Covered),O_Truck_03_covered_F,Prowler (Armed) Black,B_LSV_01_armed_black_F
-Tempest Transport (Covered) GreenHex,O_T_Truck_03_covered_ghex_F,Prowler (Armed) Black,B_T_LSV_01_armed_black_F
-Tempest Transport GreenHex,O_T_Truck_03_transport_ghex_F,Prowler (Armed) CTRG,B_T_LSV_01_armed_CTRG_F
-To-199 Neophron (CAS),O_Plane_CAS_02_F,Prowler (Armed) Olive,B_T_LSV_01_armed_olive_F
-To-201 Shikra,O_Plane_Fighter_02_F,Prowler (Armed) Olive,B_LSV_01_armed_olive_F
-To-201 Shikra [Stealth],O_Plane_Fighter_02_Stealth_F,Prowler (Armed) Sand,B_LSV_01_armed_sand_F
-Truck GHex,O_G_Van_01_transport_F,Prowler (Armed) Sand,B_T_LSV_01_armed_sand_F
-UGV Saif,O_UGV_01_F,Prowler (Unarmed),B_CTRG_LSV_01_light_F
-UGV Saif GHex,O_T_UGV_01_ghex_F,Prowler (Unarmed),B_T_LSV_01_unarmed_F
-UGV Saif RCWS,O_UGV_01_rcws_F,Prowler (Unarmed),B_LSV_01_unarmed_F
-UGV Saif RCWS GHex,O_T_UGV_01_rcws_ghex_F,Prowler (Unarmed) Black,B_LSV_01_unarmed_black_F
-Y-32 Xi'an (Infantry Transport),O_T_VTOL_02_infantry_F,Prowler (Unarmed) Black,B_T_LSV_01_unarmed_black_F
-"Y-32 Xi'an (Infantry Transport, GHex)",O_T_VTOL_02_infantry_ghex_F,Prowler (Unarmed) CTRG,B_T_LSV_01_unarmed_CTRG_F
-"Y-32 Xi'an (Infantry Transport, Grey)",O_T_VTOL_02_infantry_grey_F,Prowler (Unarmed) Olive,B_LSV_01_unarmed_olive_F
-"Y-32 Xi'an (Infantry Transport, Hex)",O_T_VTOL_02_infantry_hex_F,Prowler (Unarmed) Olive,B_T_LSV_01_unarmed_olive_F
-Y-32 Xi'an (Vehicle Transport),O_T_VTOL_02_vehicle_F,Prowler (Unarmed) Sand,B_LSV_01_unarmed_sand_F
-"Y-32 Xi'an (Vehicle Transport, GHex)",O_T_VTOL_02_vehicle_ghex_F,Prowler (Unarmed) Sand,B_T_LSV_01_unarmed_sand_F
-"Y-32 Xi'an (Vehicle Transport, Grey)",O_T_VTOL_02_vehicle_grey_F,Quad Bike,B_Quadbike_01_F
-"Y-32 Xi'an (Vehicle Transport, Hex)",O_T_VTOL_02_vehicle_hex_F,Quad Bike,I_G_Quadbike_01_F
-ZSU-39 Tigris,O_APC_Tracked_02_AA_F,Quad Bike,B_G_Quadbike_01_F
-ZSU-39 Tigris GHex,O_T_APC_Tracked_02_AA_ghex_F,Quad Bike,B_T_Quadbike_01_F
-Zamak Ammo,O_Truck_02_Ammo_F,Quad Bike,I_Quadbike_01_F
-Zamak Fuel,O_Truck_02_fuel_F,RHIB,I_C_Boat_Transport_02_F
-Zamak Medical,O_Truck_02_medical_F,RHIB,I_G_Boat_Transport_02_F
-Zamak Repair,O_Truck_02_box_F,RHIB,B_G_Boat_Transport_02_F
-Zamak Transport,O_Truck_02_transport_F,Remote Designator [NATO],B_Static_Designator_01_F
-Zamak Transport (Covered),O_Truck_02_covered_F,Rescue Boat,B_T_Lifeboat
-,,Rescue Boat,B_Lifeboat
-,,SDV,I_SDV_01_F
-,,SDV,B_SDV_01_F
-,,Speedboat Minigun,B_Boat_Armed_01_minigun_F
-,,Speedboat Minigun,I_Boat_Armed_01_minigun_F
-,,Speedboat Minigun,B_T_Boat_Armed_01_minigun_F
-,,Static Titan Launcher (AA) [AAF],I_static_AA_F
-,,Static Titan Launcher (AA) [NATO],B_static_AA_F
-,,Static Titan Launcher (AA) [NATO],B_T_Static_AA_F
-,,Static Titan Launcher (AT) [AAF],I_static_AT_F
-,,Static Titan Launcher (AT) [NATO],B_static_AT_F
-,,Static Titan Launcher (AT) [NATO],B_T_Static_AT_F
-,,Strider,I_MRAP_03_F
-,,Strider GMG,I_MRAP_03_gmg_F
-,,Strider HMG,I_MRAP_03_hmg_F
-,,Truck,I_C_Van_01_transport_F
-,,Truck,I_G_Van_01_transport_F
-,,Truck,B_G_Van_01_transport_F
-,,Truck (Brown),I_C_Van_01_transport_brown_F
-,,Truck (Olive),I_C_Van_01_transport_olive_F
-,,UGV Stomper,I_UGV_01_F
-,,UGV Stomper,B_UGV_01_F
-,,UGV Stomper RCWS,I_UGV_01_rcws_F
-,,UGV Stomper RCWS,B_UGV_01_rcws_F
-,,UH-80 Ghost Hawk,B_Heli_Transport_01_F
-,,UH-80 Ghost Hawk (Camo),B_Heli_Transport_01_camo_F
-,,UH-80 Ghost Hawk (Sand),B_CTRG_Heli_Transport_01_sand_F
-,,UH-80 Ghost Hawk (Tropic),B_CTRG_Heli_Transport_01_tropic_F
-,,V-44 X Blackfish (Armed),B_T_VTOL_01_armed_F
-,,V-44 X Blackfish (Armed) Blue,B_T_VTOL_01_armed_blue_F
-,,V-44 X Blackfish (Armed) Olive,B_T_VTOL_01_armed_olive_F
-,,V-44 X Blackfish (Infantry Transport),B_T_VTOL_01_infantry_F
-,,V-44 X Blackfish (Infantry Transport) Blue,B_T_VTOL_01_infantry_blue_F
-,,V-44 X Blackfish (Infantry Transport) Olive,B_T_VTOL_01_infantry_olive_F
-,,V-44 X Blackfish (Vehicle Transport),B_T_VTOL_01_vehicle_F
-,,WY-55 Hellcat,I_Heli_light_03_F
-,,WY-55 Hellcat (Unarmed),I_Heli_light_03_unarmed_F
-,,Zamak Ammo,I_Truck_02_ammo_F
-,,Zamak Fuel,I_Truck_02_fuel_F
-,,Zamak Medical,I_Truck_02_medical_F
-,,Zamak Repair,I_Truck_02_box_F
-,,Zamak Transport,I_Truck_02_transport_F
-,,Zamak Transport (Covered),I_Truck_02_covered_F
+NAME,CLASSNAME
+2S9 Sochor,O_MBT_02_arty_F
+2S9 Sochor GHex,O_T_MBT_02_arty_ghex_F
+Assault Boat,O_Boat_Transport_01_F
+Assault Boat,O_T_Boat_Transport_01_F
+Assault Boat,O_G_Boat_Transport_01_F
+BTR-K Kamysh,O_APC_Tracked_02_cannon_F
+BTR-K Kamysh	GHex,O_T_APC_Tracked_02_cannon_ghex_F
+Fuel Truck,O_G_Van_01_fuel_F
+Ifrit,O_MRAP_02_F
+Ifrit GMG,O_MRAP_02_gmg_F
+Ifrit GMG GreenHex,O_T_MRAP_02_gmg_ghex_F
+Ifrit GreenHex,O_T_MRAP_02_ghex_F
+Ifrit HMG,O_MRAP_02_hmg_F
+Ifrit HMG GreenHex,O_T_MRAP_02_hmg_ghex_F
+K40 Ababil-3,O_UAV_02_F
+K40 Ababil-3 (CAS),O_UAV_02_CAS_F
+KH-3A Fenghuang,O_T_UAV_04_CAS_F
+MSE-3 Marid,O_APC_Wheeled_02_rcws_F
+MSE-3 Marid GHex,O_T_APC_Wheeled_02_rcws_ghex_F
+"Mi-280 Taru (Ammo, Black)",O_Heli_Transport_04_ammo_black_F
+"Mi-280 Taru (Bench, Black)",O_Heli_Transport_04_bench_black_F
+Mi-280 Taru (Black),O_Heli_Transport_04_black_F
+"Mi-280 Taru (Cargo, Black)",O_Heli_Transport_04_box_black_F
+"Mi-280 Taru (Fuel, Black)",O_Heli_Transport_04_fuel_black_F
+"Mi-280 Taru (Medical, Black)",O_Heli_Transport_04_medevac_black_F
+"Mi-280 Taru (Repair, Black)",O_Heli_Transport_04_repair_black_F
+"Mi-280 Taru (Transport, Black)",O_Heli_Transport_04_covered_black_F
+Mi-290 Taru,O_Heli_Transport_04_F
+Mi-290 Taru (Ammo),O_Heli_Transport_04_ammo_F
+Mi-290 Taru (Bench),O_Heli_Transport_04_bench_F
+Mi-290 Taru (Box),O_Heli_Transport_04_box_F
+Mi-290 Taru (Covered),O_Heli_Transport_04_covered_F
+Mi-290 Taru (Fuel),O_Heli_Transport_04_fuel_F
+Mi-290 Taru (Medical),O_Heli_Transport_04_medevac_F
+Mi-290 Taru (Repair),O_Heli_Transport_04_repair_F
+Mi-48 Kajman,O_Heli_Attack_02_F
+Mi-48 Kajman (Black),O_Heli_Attack_02_black_F
+Mk30 HMG .50,O_HMG_01_F
+Mk30 HMG .50 (Raised),O_HMG_01_high_F
+Mk30A HMG .50,O_HMG_01_A_F
+Mk32 GMG 20 mm,O_GMG_01_F
+Mk32 GMG 20 mm (Raised),O_GMG_01_high_F
+Mk32A GMG 20 mm,O_GMG_01_A_F
+Mk6 Mortar,O_G_Mortar_01_F
+Mk6 Mortar,O_Mortar_01_F
+NAME,CLASSNAME
+Offroad (Armed) GHex,O_G_Offroad_01_armed_F
+Offroad (Repair),O_G_Offroad_01_repair_F
+Offroad GHex,O_G_Offroad_01_F
+PO-30 Orca,O_Heli_Light_02_F
+PO-30 Orca (Black & White),O_Heli_Light_02_v2_F
+PO-30 Orca (Unarmed),O_Heli_Light_02_unarmed_F
+Qilin (Armed),O_LSV_02_armed_F
+Qilin (Armed),O_T_LSV_02_armed_F
+Qilin (Armed) Arid,O_T_LSV_02_armed_arid_F
+Qilin (Armed) Arid,O_LSV_02_armed_arid_F
+Qilin (Armed) Black,O_T_LSV_02_armed_black_F
+Qilin (Armed) Black,O_LSV_02_armed_black_F
+Qilin (Armed) GreenHex,O_T_LSV_02_armed_ghex_F
+Qilin (Armed) GreenHex,O_LSV_02_armed_ghex_F
+Qilin (Armed) Viper,O_T_LSV_02_armed_viper_F
+Qilin (Armed) Viper,O_LSV_02_armed_viper_F
+Qilin (Unarmed),O_T_LSV_02_unarmed_F
+Qilin (Unarmed),O_LSV_02_unarmed_F
+Qilin (Unarmed) Arid,O_LSV_02_unarmed_arid_F
+Qilin (Unarmed) Arid,O_T_LSV_02_unarmed_arid_F
+Qilin (Unarmed) Black,O_LSV_02_unarmed_black_F
+Qilin (Unarmed) Black,O_T_LSV_02_unarmed_black_F
+Qilin (Unarmed) GreenHex,O_LSV_02_unarmed_ghex_F
+Qilin (Unarmed) GreenHex,O_T_LSV_02_unarmed_ghex_F
+Qilin (Unarmed) Viper,O_LSV_02_unarmed_viper_F
+Qilin (Unarmed) Viper,O_T_LSV_02_unarmed_viper_F
+Quad Bike,O_Quadbike_01_F
+Quad Bike	GHex,O_G_Quadbike_01_F
+Quad Bike GreenHex,O_T_Quadbike_01_ghex_F
+RHIB,O_G_Boat_Transport_02_F
+Remote Designator [CSAT],O_Static_Designator_02_F
+Rescue Boat,O_T_Lifeboat
+Rescue Boat,O_Lifeboat
+SDV,O_SDV_01_F
+Speedboat HMG,O_Boat_Armed_01_hmg_F
+Speedboat HMG,O_T_Boat_Armed_01_hmg_F
+Static Titan Launcher (AA) [CSAT],O_static_AA_F
+Static Titan Launcher (AT) [CSAT],O_static_AT_F
+T-100 Varsuk,O_MBT_02_cannon_F
+T-100 Varsuk GHex,O_T_MBT_02_cannon_ghex_F
+Taru Bench Pod,Land_Pod_Heli_Transport_04_bench_F
+Taru Bench Pod (Black),Land_Pod_Heli_Transport_04_bench_black_F
+Taru Medical Pod,Land_Pod_Heli_Transport_04_medevac_F
+Taru Medical Pod (Black),Land_Pod_Heli_Transport_04_medevac_black_F
+Taru Transport Pod,Land_Pod_Heli_Transport_04_covered_F
+Taru Transport Pod (Black),Land_Pod_Heli_Transport_04_covered_black_F
+Tayran AR-2,O_UAV_01_F
+Tempest (Device),O_Truck_03_device_F
+Tempest (Device) GreenHex,O_T_Truck_03_device_ghex_F
+Tempest Ammo,O_Truck_03_ammo_F
+Tempest Ammo GreenHex,O_T_Truck_03_ammo_ghex_F
+Tempest Fuel,O_Truck_03_fuel_F
+Tempest Fuel GreenHex,O_T_Truck_03_fuel_ghex_F
+Tempest Medical,O_Truck_03_medical_F
+Tempest Medical GreenHex,O_T_Truck_03_medical_ghex_F
+Tempest Repair,O_Truck_03_repair_F
+Tempest Repair GreenHex,O_T_Truck_03_repair_ghex_F
+Tempest Transport,O_Truck_03_transport_F
+Tempest Transport (Covered),O_Truck_03_covered_F
+Tempest Transport (Covered) GreenHex,O_T_Truck_03_covered_ghex_F
+Tempest Transport GreenHex,O_T_Truck_03_transport_ghex_F
+To-199 Neophron (CAS),O_Plane_CAS_02_F
+To-201 Shikra,O_Plane_Fighter_02_F
+To-201 Shikra [Stealth],O_Plane_Fighter_02_Stealth_F
+Truck GHex,O_G_Van_01_transport_F
+UGV Saif,O_UGV_01_F
+UGV Saif GHex,O_T_UGV_01_ghex_F
+UGV Saif RCWS,O_UGV_01_rcws_F
+UGV Saif RCWS GHex,O_T_UGV_01_rcws_ghex_F
+Y-32 Xi'an (Infantry Transport),O_T_VTOL_02_infantry_F
+"Y-32 Xi'an (Infantry Transport, GHex)",O_T_VTOL_02_infantry_ghex_F
+"Y-32 Xi'an (Infantry Transport, Grey)",O_T_VTOL_02_infantry_grey_F
+"Y-32 Xi'an (Infantry Transport, Hex)",O_T_VTOL_02_infantry_hex_F
+Y-32 Xi'an (Vehicle Transport),O_T_VTOL_02_vehicle_F
+"Y-32 Xi'an (Vehicle Transport, GHex)",O_T_VTOL_02_vehicle_ghex_F
+"Y-32 Xi'an (Vehicle Transport, Grey)",O_T_VTOL_02_vehicle_grey_F
+"Y-32 Xi'an (Vehicle Transport, Hex)",O_T_VTOL_02_vehicle_hex_F
+ZSU-39 Tigris,O_APC_Tracked_02_AA_F
+ZSU-39 Tigris GHex,O_T_APC_Tracked_02_AA_ghex_F
+Zamak Ammo,O_Truck_02_Ammo_F
+Zamak Fuel,O_Truck_02_fuel_F
+Zamak Medical,O_Truck_02_medical_F
+Zamak Repair,O_Truck_02_box_F
+Zamak Transport,O_Truck_02_transport_F
+Zamak Transport (Covered),O_Truck_02_covered_F
+A-143 Buzzard (AA),I_Plane_Fighter_03_AA_F
+A-143 Buzzard (CAS),I_Plane_Fighter_03_CAS_F
+A-149 Gryphon,I_Plane_Fighter_04_F
+A-164 Wipeout (CAS),B_Plane_CAS_01_F
+AH-9 Pawnee,B_Heli_Light_01_armed_F
+AH-99 Blackfoot,B_Heli_Attack_01_F
+AMV-7 Marshall,B_T_APC_Wheeled_01_cannon_F
+AMV-7 Marshall,B_APC_Wheeled_01_cannon_F
+AR-2 Darter,B_UAV_01_F
+AR-2 Darter,I_UAV_01_F
+Assault Boat,B_T_Boat_Transport_01_F
+Assault Boat,I_Boat_Transport_01_F
+Assault Boat,B_G_Boat_Transport_01_F
+Assault Boat,I_C_Boat_Transport_01_F
+Assault Boat,I_G_Boat_Transport_01_F
+Assault Boat,B_Boat_Transport_01_F
+CH-49 Mohawk,I_Heli_Transport_02_F
+CH-67 Huron,B_Heli_Transport_03_F
+CH-67 Huron (Black),B_Heli_Transport_03_black_F
+CH-67 Huron (Unarmed),B_Heli_Transport_03_unarmed_F
+CH-67 Huron Unarmed (Green),B_Heli_Transport_03_unarmed_green_F
+CRV-6e Bobcat,B_T_APC_Tracked_01_CRV_F
+CRV-6e Bobcat,B_APC_Tracked_01_CRV_F
+Caesar BTT,I_C_Plane_Civil_01_F
+F/A-181 Black Wasp II,B_Plane_Fighter_01_F
+F/A-181 Black Wasp II(Stealth),B_Plane_Fighter_01_Stealth_F
+FV-720 Mora,I_APC_tracked_03_cannon_F
+Fuel Truck,B_G_Van_01_fuel_F
+Fuel Truck,I_G_Van_01_fuel_F
+HEMTT,B_Truck_01_mover_F
+HEMTT,B_T_Truck_01_mover_F
+HEMTT Ammo,B_T_Truck_01_ammo_F
+HEMTT Ammo,B_Truck_01_ammo_F
+HEMTT Box,B_Truck_01_box_F
+HEMTT Box,B_T_Truck_01_box_F
+HEMTT Fuel,B_Truck_01_fuel_F
+HEMTT Fuel,B_T_Truck_01_fuel_F
+HEMTT Medical,B_T_Truck_01_medical_F
+HEMTT Medical,B_Truck_01_medical_F
+HEMTT Repair,B_Truck_01_Repair_F
+HEMTT Repair,B_T_Truck_01_Repair_F
+HEMTT Transport,B_Truck_01_transport_F
+HEMTT Transport,B_T_Truck_01_transport_F
+HEMTT Transport (Covered),B_T_Truck_01_covered_F
+HEMTT Transport (Covered),B_Truck_01_covered_F
+Hunter,B_MRAP_01_F
+Hunter,B_T_MRAP_01_F
+Hunter GMG,B_MRAP_01_gmg_F
+Hunter GMG,B_T_MRAP_01_gmg_F
+Hunter HMG,B_T_MRAP_01_hmg_F
+Hunter HMG,B_MRAP_01_hmg_F
+IFV-6a Cheetah,B_APC_Tracked_01_AA_F
+IFV-6a Cheetah	AA,B_T_APC_Tracked_01_AA_F
+IFV-6c Panther,B_APC_Tracked_01_rcws_F
+IFV-6c Panther	RCWS,B_T_APC_Tracked_01_rcws_F
+I_APC_Wheeled_03_cannon_F,I_APC_Wheeled_03_cannon_F
+I_MBT_03_cannon_F,I_MBT_03_cannon_F
+K40 Ababil-3,I_UAV_02_F
+K40 Ababil-3 (CAS),I_UAV_02_CAS_F
+M-900,I_C_Heli_Light_01_civil_F
+M2A1 Slammer,B_T_MBT_01_cannon_F
+M2A1 Slammer,B_MBT_01_cannon_F
+M2A4 Slammer UP,B_MBT_01_TUSK_F
+M2A4 Slammer UP,B_T_MBT_01_TUSK_F
+M4 Scorcher,B_T_MBT_01_arty_F
+M4 Scorcher,B_MBT_01_arty_F
+M5 Sandstorm MLRS,B_MBT_01_mlrs_F
+M5 Sandstorm MLRS,B_T_MBT_01_mlrs_F
+MB 4WD,I_C_Offroad_02_unarmed_F
+MB 4WD (Brown),I_C_Offroad_02_unarmed_brown_F
+MB 4WD (Olive),I_C_Offroad_02_unarmed_olive_F
+MH-9 Hummingbird,B_Heli_Light_01_F
+MH-9 Hummingbird (Stripped),B_Heli_Light_01_stripped_F
+MQ-12 Falcon,B_T_UAV_03_F
+MQ-4A Greyhawk,B_UAV_02_F
+MQ-4A Greyhawk (CAS),B_UAV_02_CAS_F
+Mk30 HMG .50,B_HMG_01_F
+Mk30 HMG .50,B_T_HMG_01_F
+Mk30 HMG .50,I_HMG_01_F
+Mk30 HMG .50 (Raised),I_HMG_01_high_F
+Mk30 HMG .50 (Raised),B_HMG_01_high_F
+Mk30A HMG .50,B_HMG_01_A_F
+Mk30A HMG .50,I_HMG_01_A_F
+Mk32 GMG 20 mm,B_GMG_01_F
+Mk32 GMG 20 mm,I_GMG_01_F
+Mk32 GMG 20 mm,B_T_GMG_01_F
+Mk32 GMG 20 mm (Raised),I_GMG_01_high_F
+Mk32 GMG 20 mm (Raised),B_GMG_01_high_F
+Mk32A GMG 20 mm,I_GMG_01_A_F
+Mk32A GMG 20 mm,B_GMG_01_A_F
+Mk6 Mortar,B_T_Mortar_01_F
+Mk6 Mortar,I_Mortar_01_F
+Mk6 Mortar,B_Mortar_01_F
+Mk6 Mortar,B_G_Mortar_01_F
+Mk6 Mortar,I_G_Mortar_01_F
+Offroad,B_GEN_Offroad_01_gen_F
+Offroad,B_G_Offroad_01_F
+Offroad,I_G_Offroad_01_F
+Offroad (Armed),B_G_Offroad_01_armed_F
+Offroad (Armed),I_G_Offroad_01_armed_F
+Offroad (Repair),I_G_Offroad_01_repair_F
+Offroad (Repair),B_G_Offroad_01_repair_F
+Prowler (Armed),B_T_LSV_01_armed_F
+Prowler (Armed),B_LSV_01_armed_F
+Prowler (Armed) Black,B_LSV_01_armed_black_F
+Prowler (Armed) Black,B_T_LSV_01_armed_black_F
+Prowler (Armed) CTRG,B_T_LSV_01_armed_CTRG_F
+Prowler (Armed) Olive,B_LSV_01_armed_olive_F
+Prowler (Armed) Olive,B_T_LSV_01_armed_olive_F
+Prowler (Armed) Sand,B_T_LSV_01_armed_sand_F
+Prowler (Armed) Sand,B_LSV_01_armed_sand_F
+Prowler (Unarmed),B_LSV_01_unarmed_F
+Prowler (Unarmed),B_CTRG_LSV_01_light_F
+Prowler (Unarmed),B_T_LSV_01_unarmed_F
+Prowler (Unarmed) Black,B_LSV_01_unarmed_black_F
+Prowler (Unarmed) Black,B_T_LSV_01_unarmed_black_F
+Prowler (Unarmed) CTRG,B_T_LSV_01_unarmed_CTRG_F
+Prowler (Unarmed) Olive,B_T_LSV_01_unarmed_olive_F
+Prowler (Unarmed) Olive,B_LSV_01_unarmed_olive_F
+Prowler (Unarmed) Sand,B_LSV_01_unarmed_sand_F
+Prowler (Unarmed) Sand,B_T_LSV_01_unarmed_sand_F
+Quad Bike,I_Quadbike_01_F
+Quad Bike,I_G_Quadbike_01_F
+Quad Bike,B_Quadbike_01_F
+Quad Bike,B_G_Quadbike_01_F
+Quad Bike,B_T_Quadbike_01_F
+RHIB,I_G_Boat_Transport_02_F
+RHIB,B_G_Boat_Transport_02_F
+RHIB,I_C_Boat_Transport_02_F
+Remote Designator [NATO],B_Static_Designator_01_F
+Rescue Boat,B_T_Lifeboat
+Rescue Boat,B_Lifeboat
+SDV,B_SDV_01_F
+SDV,I_SDV_01_F
+Speedboat Minigun,I_Boat_Armed_01_minigun_F
+Speedboat Minigun,B_Boat_Armed_01_minigun_F
+Speedboat Minigun,B_T_Boat_Armed_01_minigun_F
+Static Titan Launcher (AA) [AAF],I_static_AA_F
+Static Titan Launcher (AA) [NATO],B_T_Static_AA_F
+Static Titan Launcher (AA) [NATO],B_static_AA_F
+Static Titan Launcher (AT) [AAF],I_static_AT_F
+Static Titan Launcher (AT) [NATO],B_T_Static_AT_F
+Static Titan Launcher (AT) [NATO],B_static_AT_F
+Strider,I_MRAP_03_F
+Strider GMG,I_MRAP_03_gmg_F
+Strider HMG,I_MRAP_03_hmg_F
+Truck,B_G_Van_01_transport_F
+Truck,I_C_Van_01_transport_F
+Truck,I_G_Van_01_transport_F
+Truck (Brown),I_C_Van_01_transport_brown_F
+Truck (Olive),I_C_Van_01_transport_olive_F
+UGV Stomper,B_UGV_01_F
+UGV Stomper,I_UGV_01_F
+UGV Stomper RCWS,B_UGV_01_rcws_F
+UGV Stomper RCWS,I_UGV_01_rcws_F
+UH-80 Ghost Hawk,B_Heli_Transport_01_F
+UH-80 Ghost Hawk (Camo),B_Heli_Transport_01_camo_F
+UH-80 Ghost Hawk (Sand),B_CTRG_Heli_Transport_01_sand_F
+UH-80 Ghost Hawk (Tropic),B_CTRG_Heli_Transport_01_tropic_F
+V-44 X Blackfish (Armed),B_T_VTOL_01_armed_F
+V-44 X Blackfish (Armed) Blue,B_T_VTOL_01_armed_blue_F
+V-44 X Blackfish (Armed) Olive,B_T_VTOL_01_armed_olive_F
+V-44 X Blackfish (Infantry Transport),B_T_VTOL_01_infantry_F
+V-44 X Blackfish (Infantry Transport) Blue,B_T_VTOL_01_infantry_blue_F
+V-44 X Blackfish (Infantry Transport) Olive,B_T_VTOL_01_infantry_olive_F
+V-44 X Blackfish (Vehicle Transport),B_T_VTOL_01_vehicle_F
+WY-55 Hellcat,I_Heli_light_03_F
+WY-55 Hellcat (Unarmed),I_Heli_light_03_unarmed_F
+Zamak Ammo,I_Truck_02_ammo_F
+Zamak Fuel,I_Truck_02_fuel_F
+Zamak Medical,I_Truck_02_medical_F
+Zamak Repair,I_Truck_02_box_F
+Zamak Transport,I_Truck_02_transport_F
+Zamak Transport (Covered),I_Truck_02_covered_F

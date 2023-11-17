@@ -63,26 +63,17 @@ def write_csv(file_path, groups):
     try:
         with open(file_path, 'w', newline='', encoding='utf-8') as csvfile:
             writer = csv.writer(csvfile)
-            # Write the headers
-            headers = [key for key in groups.keys() for _ in (0, 1)]
-            writer.writerow(headers)
-            # Write the sorted and deduplicated data
-            max_length = max(len(items) for items in groups.values())
-            for i in range(max_length):
-                row = []
-                for items in groups.values():
-                    if i < len(items):
-                        row.extend([items[i].name, items[i].classname])
-                    else:
-                        row.extend(['', ''])
-                writer.writerow(row)
+            writer.writerow(['NAME', 'CLASSNAME'])
+            for items in groups.values():
+                for item in items:
+                    writer.writerow([item.name, item.classname])
     except Exception as e:
         print(f"An error occurred while writing to CSV: {e}")
 
 def main():
     input_file = 'data.csv'
     output_json_file = 'data.json'
-    output_csv_file = 'sorted_data.csv'
+    output_csv_file = 'cleaned-data.csv'
 
     groups = read_csv(input_file)
     sorted_groups = sort_and_deduplicate_groups(groups)
@@ -90,8 +81,8 @@ def main():
     write_json(output_json_file, json_output)
     write_csv(output_csv_file, sorted_groups)
 
-    print(f"Structured JSON data written to {output_json_file}")
-    print(f"Sorted and deduplicated CSV data written to {output_csv_file}")
+    print(f"Structured to {output_json_file}")
+    print(f"Cleaned to {output_csv_file}")
 
 if __name__ == "__main__":
     main()
