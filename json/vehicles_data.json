@@ -907,28 +907,8 @@
             "classname": "B_T_Mortar_01_F"
         },
         {
-            "name": "NAME",
-            "classname": "CLASSNAME"
-        },
-        {
-            "name": "NAME",
-            "classname": "CLASSNAME"
-        },
-        {
-            "name": "NAME",
-            "classname": "CLASSNAME"
-        },
-        {
-            "name": "NAME",
-            "classname": "CLASSNAME"
-        },
-        {
             "name": "Offroad",
             "classname": "I_G_Offroad_01_F"
-        },
-        {
-            "name": "Offroad",
-            "classname": "B_G_Offroad_01_F"
         },
         {
             "name": "Offroad",
