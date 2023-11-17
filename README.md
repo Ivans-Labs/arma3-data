@@ -2,7 +2,7 @@
 
 ### Base Game:
 
-- Vehicles [CSV](https://github.com/Ivans-Labs/arma3-data/csv/base/vehicles.csv) | [JSON](https://github.com/Ivans-Labs/arma3-data/json/base/vehicles.json)
+- Vehicles [CSV](https://github.com/Ivans-Labs/blob/main/arma3-data/csv/base/vehicles.csv) | [JSON](https://github.com/Ivans-Labs/arma3-data/blob/main/json/base/vehicles.json)
 - Units [CSV](https://github.com/Ivans-Labs/arma3-data/csv/base/units.csv)
 - Weapons [CSV](https://github.com/Ivans-Labs/arma3-data/csv/base/weapons.csv)
 - Items [CSV](https://github.com/Ivans-Labs/arma3-data/csv/base/items.csv)
